@@ -1,2 +1,1 @@
-# socialLoginProject
-Social Login Project with EOS, RootPark
+서버 IP : 172.31.21.157
