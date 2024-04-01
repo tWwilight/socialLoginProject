@@ -7,6 +7,8 @@ CREATE TABLE User(
 	primary key(userId)
 );
 
+-- ----------
+
 INSERT INTO User(userId, username, profileImg)
 VALUES ("one", "SeungEun", "ImageOne");
 
@@ -22,7 +24,7 @@ VALUES ("four", "RootPark", "ImageFour");
 INSERT INTO User(userId, username, profileImg)
 VALUES ("asd", "KeyWoong", "ImageFive");
 
--- --------------------------------
+-- ----------
 
 SELECT * FROM User;
 
