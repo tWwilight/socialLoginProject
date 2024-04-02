@@ -17,5 +17,4 @@ const ping = (req, res) => {
 router.route('/ping').get(ping);
 
 app.use('/socialLoginProject/api/v1', router);
-console.log(`Server is running on port ${serverPort}`);
 app.listen(serverPort);
