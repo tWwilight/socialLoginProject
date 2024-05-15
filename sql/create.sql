@@ -25,7 +25,7 @@ INSERT INTO User(userId, username, profileImg)
 VALUES ("asd", "KeyWoong", "ImageFive");
 
 -- ----------
-
+/*
 SELECT * FROM User;
 
 SELECT userId, userName FROM User
@@ -40,3 +40,4 @@ WHERE userName="RootPark";
 UPDATE User
 SET userId='dsa'
 WHERE userName="KiJae";
+*/
